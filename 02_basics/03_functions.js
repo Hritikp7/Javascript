@@ -1,3 +1,6 @@
+// rest operator
+// Rest puts individual items/elements together and return an array
+
 // function calculateCartPrice(...num1) {
 //     let sum = 0
 //     for (let i = 0; i < num1.length; i++) {
@@ -19,3 +22,8 @@
 // }
 
 // handleObject(user);
+
+
+// fuction definition hsa parameters and function call has arguments
+
+// Spread operator expands/converts an array into individual elements
